@@ -1,0 +1,11 @@
+vectorizer,model,f1_mean,f1_std
+char,SVM,0.642,0.177
+word,SVM,0.635,0.218
+word,Logistic Regression,0.61,0.111
+char,Logistic Regression,0.595,0.173
+char,Random Forest,0.554,0.197
+char,Naive Bayes,0.527,0.136
+word,KNN,0.52,0.16
+char,KNN,0.467,0.167
+word,Random Forest,0.465,0.17
+word,Naive Bayes,0.39,0.101

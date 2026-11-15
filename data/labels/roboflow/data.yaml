@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['date', 'items', 'total', 'vendor']
+
+roboflow:
+  workspace: adhiths-workspace-7urz8
+  project: smartreciept-pqv70
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/adhiths-workspace-7urz8/smartreciept-pqv70/dataset/2
